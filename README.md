@@ -1,4 +1,4 @@
-<div style="background-color: lightgray; color: black; color-scheme: light dark;">
+<div style=";">
 
 ![Header](./github-header-image.png)
 
@@ -38,8 +38,6 @@ The cover photo captures me with these gadgets... before they became **_"victims
   .icon-container img {
     width: 42px;
     height: 42px;
-    max-width: 100%;
-    max-height: 100%;
     transition: transform 0.3s ease; /* Hiệu ứng phóng to khi hover */
   }
 
@@ -183,7 +181,7 @@ The cover photo captures me with these gadgets... before they became **_"victims
 
 ---
 
-## **_✍️Random Dev Quote_**
+## **✍️Random Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
