@@ -38,6 +38,8 @@ The cover photo captures me with these gadgets... before they became **_"victims
   .icon-container img {
     width: 42px;
     height: 42px;
+    max-width: 100%;
+    max-height: 100%;
     transition: transform 0.3s ease; /* Hiệu ứng phóng to khi hover */
   }
 
