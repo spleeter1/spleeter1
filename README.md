@@ -172,6 +172,7 @@ color: #333;">🛠️ Other</div>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+<img src="https://raw.githubusercontent.com/spleeter1/spleeter1/output/snake.svg" alt="Snake animation" />
 ###
 
 ---
