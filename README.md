@@ -1,4 +1,4 @@
-<div style=";">
+<div style="">
 
 ![Header](./github-header-image.png)
 
@@ -18,141 +18,136 @@
 **_⚡ Fun fact:_** My journey with IT started when I was a kid, and let's just say I might have broken nearly every the electronics at home!😁  
 The cover photo captures me with these gadgets... before they became **_"victims"_** of my early tech experiments! 😜
 
+---
+
 # 🚀 Languages and Tools I Use
 
-<style>
-  .icon-container {
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: center; 
-    gap: 25px; 
-    margin: 0 auto; 
-    padding-bottom: 30px;
-    padding-top: 5px;
-  }
-
-  .icon-container a {
-    text-decoration: none; /* Bỏ gạch chân */
-  }
-
-  .icon-container img {
-    width: 42px;
-    height: 42px;
-    transition: transform 0.3s ease; /* Hiệu ứng phóng to khi hover */
-  }
-
-  .icon-container img:hover {
-    transform: scale(1.2); /* Phóng to icon khi hover */
-  }
-
-  .section-header {
-    text-align: left;
-    font-size: 1.5em;
-   
-    font-family: sans-serif;
-    font-weight: 600; 
-    color: #333;
-  }
-</style>
-
 <!-- Các phần tử trong HTML -->
-<div class="section-header">💻 Programming Languages </div>
-<div class="icon-container">
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" />
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">💻 Programming Languages </div>
+<div align=center class="icon-container" style = "">
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="text-decoration: none">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 42px; height: 42px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 42px; height: 42px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 42px; height: 42px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="width: 42px; height: 42px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 42px; height: 42px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<div class="section-header">⚙️ Framework</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">⚙️ Framework</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<div class="section-header">🗄️ Database</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">🗄️ Database</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" />
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<div class="section-header">🤖 AI</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">🤖 AI</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" />
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" alt="scikit_learn" />
   </a>
 </div>
 
-<div class="section-header">🐋 DevOps</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">🐋 DevOps</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<div class="section-header">🧪 Test and Automation</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">🧪 Test and Automation</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" />
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" />
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
-<div class="section-header">🛠️ Other</div>
-<div class="icon-container">
+<div class="section-header" style="text-align: left;
+font-size: 1.5em;
+font-family: sans-serif;
+font-weight: 600;
+color: #333;">🛠️ Other</div>
+<div align=center class="icon-container">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" />
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="width: 42px; height: 42px; padding= ; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
