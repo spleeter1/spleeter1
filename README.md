@@ -164,13 +164,7 @@ color: #333;">🛠️ Other</div>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/nguyen.dinh.nam.781604" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ngdn._.03/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
-<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spleeter1&show_icons=true&locale=en&layout=compact" alt="spleeter1" /></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spleeter1&show_icons=true&locale=en&layout=compact" alt="spleeter1" /></p>  
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -178,12 +172,9 @@ color: #333;">🛠️ Other</div>
 <img src="https://raw.githubusercontent.com/spleeter1/spleeter1/output/snake.svg" alt="Snake animation" />
 </picture>
 
-###
-
 ---
 
 ## **✍️Random Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 </div>
